@@ -8,7 +8,7 @@ import ContactUs from "../components/ContactUs";
 
 export default function About() {
   return (
-    <div className="text-neutral pt-5 dark:text-gray-100 dark:bg-gray-800">
+    <div className="text-neutral overflow-hidden pt-5 dark:text-gray-100 dark:bg-gray-800">
       <div
         className="bg-secondar flex gap-5 px-8 md:px-16 py-20 items-center"
         data-aos="fade-up"

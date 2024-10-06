@@ -2,9 +2,9 @@ import ContactUs from "../components/ContactUs";
 
 export default function Services() {
   return (
-    <div className="text-neutral dark:text-gray-100">
+    <div className="text-neutral overflow-hidden dark:text-gray-100">
       <div
-        className="flex flex-col gap-10 bg-white-200 dark:bg-gray-700 px-8 md:px-16 pt-10 pb-40 "
+        className="flex flex-col  gap-10 bg-white-200 dark:bg-gray-700 px-8 md:px-16 pt-10 pb-40 "
         data-aos="fade-up"
       >
         <h1
